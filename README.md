@@ -10,4 +10,4 @@ To achieve the objective stated above, I raise the following question to serve a
 5.	 Are there any specific quarters in the previous year that had significant fluctuations in sales?
 6.	Which months in the previous year had the highest sales, and what factors contributed to those successful months? 
 # Raw Data
-![]()
+![](Rawdata.jpg)
