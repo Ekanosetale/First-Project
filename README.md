@@ -1,4 +1,5 @@
-# First-Project
+
+# "Strategic Sales Analysis and Performance Evaluation for Informed Decision-Making
 ![](BEST.jpg)
 # About the analysis
 This analysis was carried out to evaluate based on the company’s performance in the previous year, which specific category, quarters, Months, Products, and states deserves more attention. This will serve as pointers to perform better and make informed decisions in the coming year.
